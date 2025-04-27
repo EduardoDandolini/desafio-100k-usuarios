@@ -1,0 +1,1 @@
+### Repositorio criado para brincar um pouco com o desafio https://github.com/codecon-dev/desafio-1-1s-vs-3j, que consiste em receber um json com dados de 100k usuarios como input e fazer alguns filtros para retornar as informações solicitadas no desafio
