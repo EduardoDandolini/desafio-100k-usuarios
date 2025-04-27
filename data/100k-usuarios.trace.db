@@ -1,3 +1,0 @@
-2025-04-27 11:56:46.207457-03:00 jdbc[3]: exception
-org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "JSON_DATA" not found (this database is empty); SQL statement:
-insert into json_data (json_content,id) values (?,default) [42104-232]
